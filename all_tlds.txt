@@ -1433,3 +1433,5 @@ zero
 zip
 zm
 zone
+zuerich
+zw
