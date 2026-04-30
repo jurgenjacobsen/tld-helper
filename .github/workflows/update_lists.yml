@@ -3,7 +3,12 @@ name: Update TLD Lists
 on:
   schedule:
     - cron: '0 0 * * 0' # Runs every Sunday at midnight
-  workflow_dispatch: # Allows manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - 'main.py'
+      - '.github/workflows/update_lists.yml'
 
 jobs:
   update-lists:

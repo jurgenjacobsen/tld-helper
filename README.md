@@ -1,6 +1,12 @@
 # TLD Helper 🌐
 An interactive CLI tool to manage and explore Top-Level Domains (TLDs). It allows you to fetch official IANA lists, filter for buyable suffixes using the Public Suffix List, and perform WHOIS lookups.
 
+[![wakatime](https://wakatime.com/badge/user/010adc07-6382-419f-87bc-0b3f507ee495/project/5941b674-2c53-4f6e-b6db-b48fc481d746.svg)](https://wakatime.com/badge/user/010adc07-6382-419f-87bc-0b3f507ee495/project/5941b674-2c53-4f6e-b6db-b48fc481d746)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/jurgenjacobsen/tld-helper/main)
+![GitHub top language](https://img.shields.io/github/languages/top/jurgenjacobsen/tld-helper)
+![GitHub repo size](https://img.shields.io/github/repo-size/jurgenjacobsen/tld-helper)
+![GitHub License](https://img.shields.io/github/license/jurgenjacobsen/tld-helper)
+
 ## Features
 *   **Interactive CLI**: Navigate options using arrow keys and enter.
 *   **All TLDs**: Fetches the latest official TLD list from IANA.
