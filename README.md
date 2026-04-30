@@ -18,7 +18,7 @@ An interactive CLI tool to manage and explore Top-Level Domains (TLDs). It allow
 
 2.  **Install dependencies**:
     ```bash
-    pip install questionary python-whois
+        pip install -r requirements.txt
     ```
 
 ## Usage
