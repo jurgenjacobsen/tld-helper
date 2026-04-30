@@ -9,6 +9,8 @@ on:
     paths:
       - 'main.py'
       - '.github/workflows/update_lists.yml'
+      - 'requirements.txt'
+        
 
 jobs:
   update-lists:
