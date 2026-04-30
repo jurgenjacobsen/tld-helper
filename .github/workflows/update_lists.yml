@@ -1,0 +1,38 @@
+name: Update TLD Lists
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-lists:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install questionary python-whois
+
+      - name: Run update scripts
+        run: |
+          # We run the specific functions by calling them via python -c
+          # This avoids the interactive menu while still using the logic in main.py
+          python -c "from main import get_all_tlds, get_buyable_tlds; get_all_tlds(); get_buyable_tlds()"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add all_tlds.txt buyable_tlds.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update TLD lists [skip ci]" && git push)
