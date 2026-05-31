@@ -146,6 +146,7 @@ ah.cn
 ah.no
 ai
 ai.bd
+ai.id
 ai.in
 ai.jo
 ai.kr
