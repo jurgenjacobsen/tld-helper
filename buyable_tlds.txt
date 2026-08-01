@@ -76,7 +76,6 @@ ac.rw
 ac.se
 ac.sz
 ac.th
-ac.tj
 ac.tz
 ac.ug
 ac.uk
@@ -111,6 +110,7 @@ ae
 aeg
 aejrie.no
 aero
+aero.in
 aero.mv
 aerobatic.aero
 aeroclub.aero
@@ -211,6 +211,7 @@ alt.za
 alta.no
 alto-adige.it
 altoadige.it
+alumni.in
 alvdal.no
 am
 am.br
@@ -277,7 +278,6 @@ apple
 aq
 aq.it
 aquarelle
-aquila.it
 ar
 ar.it
 ar.us
@@ -379,7 +379,7 @@ auction
 audi
 audible
 audio
-audnedaln.no
+audnedal.no
 augustow.pl
 aukra.no
 aure.no
@@ -1208,6 +1208,7 @@ cv.ua
 cw
 cx
 cy
+cyb.ge
 cymru
 cyou
 cz
@@ -1570,7 +1571,6 @@ fr.it
 frana.no
 fredrikstad.no
 free
-frei.no
 freight.aero
 fresenius
 friuli-v-giulia.it
@@ -1716,6 +1716,7 @@ gh
 gi
 gialai.vn
 giehtavuoatna.no
+gielda.no
 gift
 gifts
 gifu.gifu.jp
@@ -1930,6 +1931,7 @@ hamada.shimane.jp
 hamamatsu.shizuoka.jp
 hamar.no
 hamaroy.no
+hamarøy.no
 hamatama.saga.jp
 hamatonbetsu.hokkaido.jp
 hamburg
@@ -2595,6 +2597,7 @@ karatsu.saga.jp
 kariwa.niigata.jp
 kariya.aichi.jp
 karlsoy.no
+karlsøy.no
 karmoy.no
 karmøy.no
 karpacz.pl
@@ -3062,6 +3065,7 @@ living
 livorno.it
 lk
 llc
+llc.ge
 llp
 ln.cn
 lo.it
@@ -4098,6 +4102,7 @@ onion
 onjuku.chiba.jp
 onl
 online
+online.ge
 onna.okinawa.jp
 ono.fukui.jp
 ono.fukushima.jp
@@ -4611,6 +4616,7 @@ rc.it
 re
 re.it
 re.kr
+re.no
 read
 realestate
 realestate.pl
@@ -4889,6 +4895,7 @@ schmidt
 scholarships
 school
 school.ge
+school.in
 school.nz
 school.za
 schule
@@ -5234,7 +5241,10 @@ studio
 study
 style
 su
+su.it
 sucks
+sud-sardegna.it
+sudsardegna.it
 sue.fukuoka.jp
 suedtirol.it
 suginami.tokyo.jp
@@ -5254,6 +5264,7 @@ sumy.ua
 sunagawa.hokkaido.jp
 sund.no
 sunndal.no
+suohkan.no
 supplies
 supply
 support
@@ -5466,6 +5477,7 @@ tirol
 tj
 tj.cn
 tjeldsund.no
+tjielte.no
 tjmaxx
 tjome.no
 tjx
@@ -5491,6 +5503,7 @@ tmp.br
 tn
 tn.it
 tn.us
+tnx.ge
 to
 to.it
 toba.mie.jp
@@ -5644,7 +5657,6 @@ trentinoaltoadige.it
 trentinos-tirol.it
 trentinostirol.it
 trentinosud-tirol.it
-trentinosudtirol.it
 trentinosued-tirol.it
 trentinosuedtirol.it
 trentinosüd-tirol.it
@@ -5743,6 +5755,7 @@ tønsberg.no
 u.bg
 u.se
 ua
+ub.in
 ubank
 ube.yamaguchi.jp
 ubs
@@ -5758,6 +5771,7 @@ udono.mie.jp
 ueda.nagano.jp
 ueno.gunma.jp
 uenohara.yamanashi.jp
+uenorge.no
 ug
 uio.ec
 uji.kyoto.jp
@@ -5770,6 +5784,7 @@ ukiha.fukuoka.jp
 ullensaker.no
 ullensvang.no
 ulsan.kr
+ulstein.no
 ulvik.no
 umaji.kochi.jp
 umb.it
@@ -5838,7 +5853,6 @@ vaksdal.no
 val-d-aosta.it
 val-daosta.it
 vald-aosta.it
-valdaosta.it
 valer.hedmark.no
 valer.ostfold.no
 valle-aosta.it
@@ -5884,6 +5898,7 @@ venice.it
 vennesla.no
 ventures
 verbania.it
+verbano-cusio-ossola.it
 vercelli.it
 verdal.no
 verisign
@@ -5997,6 +6012,7 @@ waw.pl
 wazuka.kyoto.jp
 weather
 weatherchannel
+web
 web.bo
 web.do
 web.gu
